@@ -1,7 +1,7 @@
 <?php
 $resource = "your resource;)";
 
-// чтение cvs и сравнение тегов
+// чтение cvs и сравнение тегов только (только латиница)
 // $resource путь к cvs
 function compareTags($resource)
 {
